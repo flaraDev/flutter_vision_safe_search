@@ -1,8 +1,8 @@
 name: flutter_vision_safe_search
-description: A new Flutter package.
+description: A Flutter package to help you detect explicit, voilent content with Google Vision API from your images and pop alert.
 version: 0.0.1
-author:
-homepage:
+author: flara .dev<rohit@joistic.com>
+homepage: https://github.com/flaraDev/flutter_vision_safe_search.git
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
